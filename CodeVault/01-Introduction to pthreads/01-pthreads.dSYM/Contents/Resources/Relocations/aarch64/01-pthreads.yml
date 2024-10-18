@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/koka/Projects/Semester 03/SLP/Projects/CodeVault/01-Introduction to pthreads/01-pthreads'
+relocations:     []
+...

@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/koka/Projects/Semester 03/SLP/Projects/CodeVault/02-Difference between threads and processies/02-processIncrement'
+relocations:     []
+...
